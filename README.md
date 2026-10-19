@@ -33,6 +33,10 @@ The showcase presents player tracking, automatic plasma fire, obstacle-based vis
 
 ![Plasma turret firing towards the player](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-3.png)
 
+![Turret Blueprint viewport and component hierarchy](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-4.png)
+
+![Plasma projectile Blueprint with glowing mesh and collision bounds](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-5.png)
+
 ## C++ Implementation
 
 ### TurretComponent — Detection, Tracking, and Firing
