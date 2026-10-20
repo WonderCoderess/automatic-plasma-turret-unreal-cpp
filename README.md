@@ -1,6 +1,6 @@
 # Automatic Plasma Turret — Unreal Engine 5 C++ Showcase
 
-An automatic plasma turret created in **Unreal Engine 5.8.2** as part of the **LABA IT — Unreal Engine — C++** course and my first C++ gameplay component.
+An automatic plasma turret created in **Unreal Engine 5.8.2** as a C++ gameplay component.
 
 This repository showcases the mechanic through a demonstration video, gameplay screenshots, and C++ source files.
 
@@ -27,9 +27,9 @@ The showcase presents player tracking, automatic plasma fire, obstacle-based vis
 
 ## Scene Preview
 
-![Turret and player in the arena with cover obstacles](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-1.png)
+![Turret model for C++ Implementation of TurretComponent](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-6.png)
 
-![First-person view of the turret in the test arena](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-2.png)
+![Turret and player in the arena with cover obstacles](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-1.png)
 
 ![Plasma turret firing towards the player](automatic-plasma-turret-Unreal%20C%2B%2B/screenshot-3.png)
 
